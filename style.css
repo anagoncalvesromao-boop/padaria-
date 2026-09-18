@@ -18,7 +18,10 @@
 
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
-                                     background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+                                     background-color: #ff69b4
+                                     
+                                     
+                                    ;  /* âmbar escuro — texto branco tem contraste AA */
                                          color: #cc66cc;
                                              text-align: center;
                                                  padding: 24px 16px;
@@ -52,7 +55,7 @@
                                                                                              }
 
                                                                                              blockquote {
-                                                                                                 border-left: 4px solid #A0521A;
+                                                                                                 border-left: 4px solid #ff69b4;
                                                                                                      margin: 0 0 16px;
                                                                                                          padding: 8px 16px;
                                                                                                              background-color: #FDEEDC;
