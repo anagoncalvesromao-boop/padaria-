@@ -12,14 +12,14 @@
                  font-family: Arial, Helvetica, sans-serif;
                      line-height: 1.6;
                          margin: 0;
-                             color: #3B2A1E;             /* marrom escuro (texto) */
+                             color: #cc66cc;             /* marrom escuro (texto) */
                                  background-color: #FFF8F0;  /* creme (fundo) */
                                  }
 
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
                                      background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
-                                         color: #FFFFFF;
+                                         color: #cc66cc;
                                              text-align: center;
                                                  padding: 24px 16px;
                                                  }
@@ -34,7 +34,7 @@
                                                              }
 
                                                              .menu a {
-                                                                 color: #FFFFFF;
+                                                                 color: #cc22cc;
                                                                      text-decoration: none;
                                                                          margin: 0 10px;
                                                                              font-weight: bold;
@@ -99,7 +99,11 @@
 
                                                                                                                                                                                          .tabela-cardapio th,
                                                                                                                                                                                          .tabela-cardapio td {
-                                                                                                                                                                                             border: 1px solid #E0C9A6;
+                                                                                                                                                                                             border: 1px solid #E0C9
+                                                                                                                                                                                             
+                                                                                                                                                                                             
+                                                                                                                                                                                             
+                                                                    ;
                                                                                                                                                                                                  padding: 10px;
                                                                                                                                                                                                      text-align: left;
                                                                                                                                                                                                      }
