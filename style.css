@@ -22,7 +22,7 @@
                                      
                                      
                                     ;  /* âmbar escuro — texto branco tem contraste AA */
-                                         color: #cc66cc;
+                                         color: #272427;
                                              text-align: center;
                                                  padding: 24px 16px;
                                                  }
@@ -37,7 +37,7 @@
                                                              }
 
                                                              .menu a {
-                                                                 color: #cc22cc;
+                                                                 color: #6c22cc;
                                                                      text-decoration: none;
                                                                          margin: 0 10px;
                                                                              font-weight: bold;
@@ -73,7 +73,7 @@
                                                                                                                                  border: 1px solid #dd8500;
                                                                                                                                      border-radius: 8px;
                                                                                                                                          padding: 12px;
-                                                                                                                                             background-color: #e47272;
+                                                                                                                                             background-color: #367cd8;
                                                                                                                                              }
 
                                                                                                                                              .card img {
@@ -102,7 +102,7 @@
 
                                                                                                                                                                                          .tabela-cardapio th,
                                                                                                                                                                                          .tabela-cardapio td {
-                                                                                                                                                                                             border: 1px solid #E0C9
+                                                                                                                                                                                             border: 1px solid rgba(27, 135, 223, 0.6)
                                                                                                                                                                                              
                                                                                                                                                                                              
                                                                                                                                                                                              
